@@ -1,0 +1,30 @@
+{
+  "name": "weather-map-api",
+  "version": "1.0.0",
+  "description": "Website that finds and display the current humidity and temperature in a city of the user's choice.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgarcho/weather-map-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edgarcho/weather-map-api/issues"
+  },
+  "homepage": "https://github.com/Edgarcho/weather-map-api#readme"
+}
